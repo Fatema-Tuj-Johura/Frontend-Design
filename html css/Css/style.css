@@ -1,0 +1,19 @@
+h1{color: blue;
+text-align: center;
+font-size: 60px;
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+}
+
+.intro{
+    font-size: 30px;
+}
+
+
+#para1{
+    color: red;
+}
+
+#para2{
+    background-color: grey;
+}

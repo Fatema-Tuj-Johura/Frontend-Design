@@ -1,0 +1,94 @@
+body{
+    margin: 0%;
+}
+.NavBar{
+    background-color:  black;
+    overflow: none;
+
+}
+.NavBar>img{
+    height: 70px;
+    padding: 15px 10px;
+}
+.NavBar>ul{
+    list-style: none;
+    float: right;
+}
+.NavBar>ul>li{
+    float: left;
+}
+.NavBar>ul>li>a{
+    display: block;
+    padding: 25px 15px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+}
+.NavBar>ul>li>a:hover{
+    background-color: cadetblue;
+    color: black;
+}
+
+
+
+/* .box1{
+    background-color: red;
+    height: 200px;
+    width: 49.8%;
+    display: inline-block; 
+}
+.box2{
+    background-color: green;
+    height: 200px;
+    width: 49.8%;
+    display: inline-block;
+}
+.f1, .f2, .f3, .f4{
+    height: 200px;
+    width: 25%; 
+    float: left;
+}
+.f1{
+    background-color: cyan;
+}
+.f2{
+    background-color: rgb(0, 102, 255);
+}
+.f3{
+    background-color: rgb(161, 91, 181);
+}
+.f4{
+    background-color: rgb(255, 0, 123);
+} */
+
+.Banner1{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    background-image: url(../Images/gallery4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    position: relative;
+}
+.overlay{
+    background-color: black;
+    height: 900px;
+    opacity: 0.7;
+    position: absolute;
+}
+.BannerContent{
+    padding-top: 15%;
+    text-align: center;
+    position: absolute;
+}
+.BannerContent>h1{
+    color: coral;
+    font-size: 50px;
+    font-weight: 700;
+}
+.BannerContent>h4{
+    color: deeppink;
+    font-size: 30px;
+    font-weight: 700;
+}
