@@ -1,0 +1,96 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.NavBar1{
+    background-color: blue;
+    height: 35px;
+    width: 100%;
+    opacity: 0.7;
+}
+.LeftBar{
+    float: left;
+    padding-left: 5%;
+}
+.QuickIcons>li{
+    float: right;
+    list-style: none;
+}
+.QuickIcons>li>a{
+    display: block;
+    padding: 8px 15px;
+    color: white;
+    text-decoration: none;
+    text-shadow: none;
+    font-family: 'lato', sans-serif;
+    font-weight: 500;
+}
+
+
+
+.RightBar{
+    float: right;
+    padding-right: 5%;
+}
+.SocialIcons>li{
+    float: left;
+    list-style: none;
+
+}
+.SocialIcons>li>a{
+    display: block;
+    padding: 8px 15px;
+    color: white;
+    text-decoration: none;
+    text-shadow: none;
+    font-size: 18px;
+    font-family: 'lato', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.SocialIcons>li>h4{
+    padding: 8px 15px;
+    color: white;
+    text-decoration: none;
+    text-shadow: none;
+    font-family: 'lato', sans-serif;
+    font-weight: 500;
+}
+
+
+.NavigationBar
+{
+    background-color: blueviolet;
+    height: 120px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.Brand
+{
+    float: left;
+}
+
+.Brand>img
+{
+    height: 50px;
+    padding: 35px 200px;
+}
+
+.NavigationBar>ul
+{
+    float: right;
+}
+
+.NavigationBar>ul>li
+{
+    float: left;
+    list-style: none;
+    padding: 45px 18px;
+}
+
+.btnA{
+    background: cyan;
+    padding: 15px 25px;
+}

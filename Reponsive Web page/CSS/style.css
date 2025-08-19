@@ -1,0 +1,544 @@
+body{
+    margin: 0%;
+}
+.Banner{
+    height: 730px;
+    background-image: url(../Images/slider1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.Banner>h1{
+    color: mediumturquoise;
+    font-size: 70px;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    margin-inline-start: 0%;
+    margin-inline-end: 0%;
+    padding-top: 15%;
+}
+.Banner>h2{
+    color: blanchedalmond;
+    font-size: 38px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    margin-inline-start: 0%;
+    margin-inline-end: 0%;
+    line-height: 55px;
+}
+.btnA{
+    background-color: mediumturquoise;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 40px;
+    margin-top: 30px;
+}
+
+.btnA>a{
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.btnB{
+    background-color: black;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 40px;
+}
+.btnB>a{
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+
+
+
+.Banner2{
+    text-align: center;
+}
+.Banner2>h3{
+    font-size: 50px;
+    color: mediumturquoise;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 140px;
+    padding-bottom: 22px;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+}
+#para1{
+    font-size: 28px;
+    padding-left: 80px;
+    padding-right: 80px;
+    line-height: 40px;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+}
+
+
+.Box{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    margin-top: 60px;
+    border: solid;
+    border-color: white;
+    height: 350px;
+}
+.box1, .box2{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    border: solid;
+    border-color: white;
+    height: 349px;
+    display: inline-block;
+    width: 49.5%;
+}
+.box1A, .box1B, .box1C{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    border: none;
+    border-color: white;
+    height: 114px;
+    display: block;
+    padding-left: 100px;
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+}
+.box1A>h4, .box1B>h4, .box1C>h4{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    padding-top: 15px;
+}
+.box2A, .box2B, .box2C{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    border: none;
+    border-color: white;
+    height: 114px;
+    display: block;
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 30px;
+}
+.box2A>h4, .box2B>h4, .box2C>h4{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    padding-top: 15px;
+}
+.btn1A, .btn1B, .btn1C{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    background-color: lightgrey;
+    border: none;
+    border-radius: 25px;
+    padding: 25px 310px;
+    position: absolute;
+}
+.btn1A1, .btn1B1, .btn1C1{
+    position: relative;
+    background-color: mediumturquoise;
+    border: none;
+    border-radius: 25px;
+
+}
+.btn1A1{
+    padding: 17.5PX 77.5px;
+}
+.btn1B1{
+    padding: 17.5PX 155px;
+}
+.btn1C1{
+    padding: 17.5PX 232.5px;
+}
+.btn2A, .btn2B, .btn2C{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    background-color: lightgray;
+    border: none;
+    border-radius: 25px;
+    padding: 25px 310px;
+    position: absolute;
+}
+.btn2A1, .btn2B1, .btn2C1{
+    position: relative;
+    background-color: mediumturquoise;
+    border: none;
+    border-radius: 25px;
+}
+.btn2A1{
+    padding: 17.5PX 77.5px;
+}
+.btn2B1{
+    padding: 17.5PX 155px;
+}
+.btn2C1{
+    padding: 17.5PX 232.5px;
+}
+
+
+
+
+.Banner3>h4{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    font-size: 30px;
+    font-weight: 550;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 60px;
+    text-align: center;
+
+}
+.Box3{
+    margin-block-start: 2%;
+    margin-block-end: 0%;
+    height: 300PX;
+    display: block;
+}
+.box3A, .box3B, .box3C{
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    height: 300px;
+    border: solid;
+    border-color: beige;
+    display: inline-block;
+    width: 22%;
+    background-color: floralwhite;
+
+}
+.box3A{
+    margin-inline-start: 15%;
+    text-align: center;
+}
+.box3A>h2{
+    margin-block-start: 12%;
+}
+.box3A>h2>i{
+    font-size: 50PX;
+    color: black;
+    font-weight: 600;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    color: mediumturquoise;
+}
+.box3A>h3{
+    margin-block-start: 0%;
+    margin-block-end: 0.8%;
+    font-size: 17px;
+}
+.box3A>p{
+    margin-block-start: 0%;
+    font-size: 15px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.btn3{
+    background-color: mediumturquoise;
+    border: none;
+    border-radius: 0%;
+    padding: 12px 40px;
+}
+.btn3>a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    font-weight: 300;
+}
+.box3B{
+    margin-inline-start: 1%;
+    text-align: center;
+}
+.box3B>h2{
+    margin-block-start: 12%;
+}
+.box3B>h2>i{
+    font-size: 50PX;
+    color: black;
+    font-weight: 600;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    color: mediumturquoise;
+}
+.box3B>h3{
+    margin-block-start: 0%;
+    margin-block-end: 0.8%;
+    font-size: 17px;
+}
+.box3B>p{
+    margin-block-start: 0%;
+    font-size: 15px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.btn4{
+    background-color: mediumturquoise;
+    border: none;
+    border-radius: 0%;
+    padding: 12px 40px;
+}
+.btn4>a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    font-weight: 300;
+}
+.box3C{
+    margin-inline-start: 1%;
+    text-align: center;
+}
+.box3C>h2{
+    margin-block-start: 12%;
+}
+.box3C>h2>i{
+    font-size: 50PX;
+    color: black;
+    font-weight: 600;
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    color: mediumturquoise;
+}
+.box3C>h3{
+    margin-block-start: 0%;
+    margin-block-end: 0.8%;
+    font-size: 17px;
+}
+.box3C>p{
+    margin-block-start: 0%;
+    font-size: 15px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.btn5{
+    background-color: mediumturquoise;
+    border: none;
+    border-radius: 0%;
+    padding: 12px 40px;
+}
+.btn5>a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    font-weight: 300;
+}
+
+
+
+
+.Banner4{
+    margin-block-start: 55px;
+    background-image: url(../Images/bg-section-traveler.jpg);
+    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.Banner4>h5{
+    margin-block-end: 0%;
+    font-size: 30px;
+    padding-top: 88px;
+}
+.btn6{
+    margin-top: 30px;
+    background-color: mediumturquoise;
+    padding: 11px 36px;
+    border: none;
+}
+.btn6>a{
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+
+
+
+
+.Banner5>h3{
+    margin-block-start: 3%;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+}
+.Box4{
+    height: 500PX;
+    border: none;
+}
+.box4A{
+    margin-inline-start: 14%;
+    height: 500px;
+    border: none;
+    width: 25%;
+    display: inline-block;
+}
+.box4A1{
+    height: 350px;
+    border: solid;
+    border-color: aquamarine;
+    border-width: 5px;
+    width: 86%;
+    background-image: url(../Images/team-image1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box4A>h5{
+    margin-block-start: 3%;
+    margin-block-end: 0%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 450;
+    font-family: 'Roboto', sans-serif;
+}
+.box4A>h6{
+    margin-block-start: 0.5%;
+    margin-block-end: 3%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.btn7{
+    border: solid;
+    border-color: mediumturquoise;
+    border-radius: 25PX;
+    border-width: 3px;
+    padding: 8PX 30PX;
+    margin-inline-start: 35%;
+    margin-block-start: 0%;
+
+}
+.btn7>a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: 550;
+}
+
+.box4B{
+    height: 500px;
+    border: none;
+    width: 25%;
+    display: inline-block;
+}
+.box4B1{
+    height: 350px;
+    border: solid;
+    border-color: aquamarine;
+    border-width: 5px;
+    width: 86%;
+    background-image: url(../Images/team-image2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box4B>h5{
+    margin-block-start: 3%;
+    margin-block-end: 0%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 450;
+    font-family: 'Roboto', sans-serif;
+}
+.box4B>h6{
+    margin-block-start: 0.5%;
+    margin-block-end: 3%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.btn8{
+    border: solid;
+    border-color: mediumturquoise;
+    border-radius: 25PX;
+    border-width: 3px;
+    padding: 8PX 30PX;
+    margin-inline-start: 35%;
+    margin-block-start: 0%;
+
+}
+.btn8>a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: 550;
+}
+
+.box4C{
+    height: 500px;
+    border: none;
+    width: 25%;
+    display: inline-block;
+}
+.box4C1{
+    height: 350px;
+    border: solid;
+    border-color: aquamarine;
+    border-width: 5px;
+    width: 86%;
+    background-image: url(../Images/team-image3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box4C>h5{
+    margin-block-start: 3%;
+    margin-block-end: 0%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 450;
+    font-family: 'Roboto', sans-serif;
+}
+.box4C>h6{
+    margin-block-start: 0.5%;
+    margin-block-end: 3%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+.btn9{
+    border: solid;
+    border-color: mediumturquoise;
+    border-radius: 25PX;
+    border-width: 3px;
+    padding: 8PX 30PX;
+    margin-inline-start: 35%;
+    margin-block-start: 0%;
+
+}
+.btn9>a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: 550;
+}
+
+
+
+
+.Banner6{
+    text-align: center;
+    margin-block-start: 2%;
+}
+.Banner6>h3{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 550;
+}
+.Banner6>p{
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin-left: 8%;
+    margin-right: 8%;
+}
